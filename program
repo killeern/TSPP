@@ -3,6 +3,9 @@
 using namespace std;
 
 void main(){
-  cout<<"----Start of progect----\n";
+  string a;
+  cout<<"Enter your name:\n";
+  cin>>a;
+  cout<<"----Welcome "<<a<<"----\n";
   system("pause");
 }
