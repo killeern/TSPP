@@ -1,0 +1,12 @@
+#include <io.h>
+#include <iostream>
+
+using namespace std;
+
+void main(){
+  string a;
+  cout<<"---Enter your name---\n";
+  cin>>a;
+  cout<<"---Welcome "<<a<<"---\n";
+  system("pause");
+  }
