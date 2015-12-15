@@ -9,4 +9,4 @@ void main(){
   cin>>a;
   cout<<"---Welcome "<<a<<"---\n";
   system("pause");
-  }
+}
